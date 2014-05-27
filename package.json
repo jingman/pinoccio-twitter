@@ -1,0 +1,23 @@
+{
+  "name": "pinoccio-twitter",
+  "version": "0.0.0",
+  "description": "pinoccio-twitter ================",
+  "main": "service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jingman/pinoccio-twitter.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jingman/pinoccio-twitter/issues"
+  },
+  "homepage": "https://github.com/jingman/pinoccio-twitter",
+  "dependencies": {
+    "twit": "~1.1.15",
+    "pinoccio": "~0.1.3"
+  }
+}
